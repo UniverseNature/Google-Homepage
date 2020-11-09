@@ -1,0 +1,45 @@
+header{float: right !important;}
+
+#header-email{position:absolute;
+    right:190px;
+    top: 20px;}
+
+#header-images{position:absolute;
+    right: 120px;
+    top: 20px;}
+
+#profile-pic{position:absolute;
+    right: 30px;
+    top: 10px;;}
+
+#logo{position: relative;
+    top: 150px;
+    left: 500px;}
+
+#search-bar{width:550px;
+    height:50px;
+    border-radius: 25px;
+    position:absolute;
+    bottom:300px;
+    left:375px;}
+
+#mic{position:absolute;
+    bottom:307px;
+    right:375px;}
+
+#magnifying-glass-icon{position:absolute;
+    bottom:300px;
+    left:390px;}
+
+.search-types{width:150px;
+    height:25px;
+    background-color:rgb(218, 206, 206);
+    text-align:center;
+    bottom:230px;
+    padding-top:12.5px;}
+
+#google-search{position:absolute;
+    left:470px;}
+
+#feelin-lucky{position:absolute;
+    right:470px;}
