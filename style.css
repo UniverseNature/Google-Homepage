@@ -33,10 +33,11 @@ header{float: right !important;}
 
 .search-types{width:150px;
     height:25px;
-    background-color:rgb(218, 206, 206);
+    background-color:rgba(212, 212, 212, 0.446);
     text-align:center;
     bottom:230px;
-    padding-top:12.5px;}
+    padding-top:12px;
+    border-radius: 15px;}
 
 #google-search{position:absolute;
     left:470px;}
